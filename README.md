@@ -1,5 +1,5 @@
 # Intro-to-Analytics
- The project includes the following three main tasks:
+ The project is done in Python with the results reported in a HTML file compiled from a Jupyter notebook. The project includes the following three main tasks:
 
 (1) Data pre-processing (dealing with missing values, dropping ID-like columns, data aggregation, etc.) as appropriate.
 
